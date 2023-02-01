@@ -2,7 +2,7 @@
 $(document).ready(function(){
 
 //display current day, date and time
-const now = moment().format('dddd Do MMMM YYYY, h:mm:ss a');
+const now = moment().format('dddd Do MMMM YYYY, h:mm a');
 $("#currentDay").text(now);
 
 let timeNow = moment().format('HH');
