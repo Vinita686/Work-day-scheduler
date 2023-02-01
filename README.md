@@ -23,7 +23,7 @@ provided. Used moment.js library to include the current Day, Date and Time.
 
 
 ### Screenshot of the application :
-![Image](assets/images/Screenshot.png)
+![Image](\assests\images\Screenshot.png)
 
 
 ### Deployed application URL : https://vinita686.github.io/Work-day-scheduler/
